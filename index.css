@@ -1,5 +1,33 @@
-body {
+body,
+h1 {
     color: white;
     background-color: darkslateblue;
     text-align: center;
     }
+
+.lead {
+    color: white;
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+.container {
+    color: white;
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+.display-4 {
+    color: white;
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: darkslateblue;
+
+}
+
+.jumbotron-fluid {
+    background-color: darkslateblue;
+}
