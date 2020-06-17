@@ -5,6 +5,17 @@ h1 {
     text-align: center;
     }
 
+nav ul li {
+    color:darkgray;
+    list-style-type:none;
+    float: right;
+}
+
+button {
+    width: 100px;
+    padding: 5px;
+}
+
 .lead {
     color: white;
     background-color: darkslateblue;
@@ -30,4 +41,15 @@ h1 {
 
 .jumbotron-fluid {
     background-color: darkslateblue;
+}
+
+.d-block {
+  
+}
+
+.w-100 {
+   
+}
+
+section {
 }
